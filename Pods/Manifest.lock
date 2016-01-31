@@ -1,0 +1,18 @@
+PODS:
+  - ZSWTaggedString (2.0):
+    - ZSWTaggedString/Core (= 2.0)
+  - ZSWTaggedString/Core (2.0)
+  - ZSWTaggedString/Swift (2.0):
+    - ZSWTaggedString/Core
+  - ZSWTappableLabel (1.3)
+
+DEPENDENCIES:
+  - ZSWTaggedString (~> 2.0)
+  - ZSWTaggedString/Swift (~> 2.0)
+  - ZSWTappableLabel (~> 1.3)
+
+SPEC CHECKSUMS:
+  ZSWTaggedString: 0c3801de9accd36c3b925038cee1ecc95d94d8e5
+  ZSWTappableLabel: 610ec78ab2f7aa14dde9ee7ea03091cabb07e5dc
+
+COCOAPODS: 0.39.0
